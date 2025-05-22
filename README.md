@@ -57,7 +57,7 @@ This project focuses on analyzing customer purchase behavior from an e-commerce 
 
 - Power BI tasks U–W include interactive dashboard visualizations  
   *(File: `Final_Project.pbix`)  
-  [Published Dashboard Link](#) https://app.powerbi.com/groups/me/reports/7490bcc5-a6a9-4f9b-a32e-c6ee70963ad8/630c1f10d7840c3ebd1c?experience=power-bi&clientSideAuth=0
+  Published Dashboard Link https://app.powerbi.com/groups/me/reports/7490bcc5-a6a9-4f9b-a32e-c6ee70963ad8/630c1f10d7840c3ebd1c?experience=power-bi&clientSideAuth=0
 ---
 
 ## Key Insights
